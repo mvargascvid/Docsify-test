@@ -43,7 +43,7 @@ more about adding images to your documents in this help article on
 [including images on
 Overleaf](https://www.overleaf.com/learn/how-to/Including_images_on_Overleaf).
 
-![[fig:frog]This frog was uploaded via the file-tree menu.](frog.jpg)
+![[fig:frog]This frog was uploaded via the file-tree menu.](frog.jpg =100x20)
 
 How to add Tables
 -----------------
